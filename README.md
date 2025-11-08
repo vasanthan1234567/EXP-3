@@ -4,7 +4,7 @@ EXPT NO: 3				STAIR CASE WIRING
  
 AIM
  To control the status of the given lamp by using two–way switches. 
-APPARATUS REQUIRED:
+APPARATUS REQUIRED:laptop with internet.
 
 S. No.
 Name of the apparatus	
@@ -39,12 +39,16 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection: CIRCUIT DIAGRAM:<img width="514" height="820" alt="Screenshot 2025-10-21 142801" src="https://github.com/user-attachments/assets/e336ae05-f426-407e-a21b-c223a35f2b26" />
+ 
 Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+	![20251021_142927](https://github.com/user-attachments/assets/1eb0ff13-8f9c-46cc-8df9-fb8643d3d056)
+
+Cross connection: CIRCUIT DIAGRAM:<img width="511" height="755" alt="Screenshot 2025-10-21 132119" src="https://github.com/user-attachments/assets/37d73196-36cd-45fb-bd34-6e0ed46f4935" />
+
 
 Tabulation:2
+![20251021_143052](https://github.com/user-attachments/assets/e361b30b-955b-4841-8d7d-85f629d6273b)
 
 RESULT:
 Thus the staircase wiring is connected and tested.
